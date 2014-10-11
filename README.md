@@ -6,7 +6,7 @@ This is for the Data Science Toolbox tutorials that I will be taking and creatin
 I think I will learn a thing or two here.
 
 ## New heading
-### and another one
-li head 1
-li head 2
-li head 3
+
+* head 1
+* head 2
+* head 3
